@@ -6,7 +6,7 @@
       "explanation": "La michelada, originaria de México, nacida de la creatividad y el deseo de refrescar, se convirtió en una popular bebida que cautivó a los amantes de la cerveza con su combinación única de sabores y su espíritu festivo."
   },
    {
-      "category": "Deporte",
+      "category": "Quimica",
       "question": "¿Quién tiene el récord de más medallas de oro olímpicas en la historia de los Juegos Olímpicos?",
       "opcions": [
         "Michael Phelps",
@@ -18,7 +18,7 @@
       "explanation": "Michael Phelps"
    },
     {
-      "category": "Historia",
+      "category": "Informatica",
       "question": "¿En qué año comenzó la Primera Guerra Mundial?",
       "opcions": [
         "1912",
@@ -30,7 +30,7 @@
       "explanation": "1914"
     },
     {
-      "category": "Arte",
+      "category": "Geofrafia",
       "question": "¿Quién pintó 'La noche estrellada?'",
       "opcions": [
         "Vincent van Gogh",
@@ -42,7 +42,7 @@
       "explanation": "Vincent van Gogh"
     },
     {
-      "category": "Ciencia",
+      "category": "Quimica",
       "question": "¿Cuál es el elemento químico más abundante en el universo?",
       "opcions": [
         "Hidrógeno",
@@ -54,7 +54,7 @@
       "explanation": "Hidrogeno"
     },
     {
-      "cetegory": "Cine",
+      "cetegory": "Matematica",
       "question": "¿Qué película ganó el Premio de la Academia a la Mejor Película en 2020?",
       "opcions": [
         "Parasite",
